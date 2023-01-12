@@ -60,6 +60,7 @@ Finally, always make sure to version control your Terraform configuration files 
 
 
 ![IMAGE_DESCRIPTION](c1.PNG)
+
 ![IMAGE_DESCRIPTION](cap.PNG)
 
 
