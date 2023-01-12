@@ -17,7 +17,7 @@ Virtual Network (azurerm_virtual_network.test)
 Resource Group (azurerm_resource_group.test)
 
 
-![IMAGE_DESCRIPTION](graphviz (1).svg)
+![IMAGE_DESCRIPTION](graphviz.svg)
 
 # Prerequisites
 
@@ -61,7 +61,7 @@ Finally, always make sure to version control your Terraform configuration files 
 
 ![IMAGE_DESCRIPTION](c1.PNG)
 
-![IMAGE_DESCRIPTION](cap.PNG)
+![IMAGE_DESCRIPTION](c2.PNG)
 
 
 ***
